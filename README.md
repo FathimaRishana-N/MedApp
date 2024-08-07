@@ -17,3 +17,6 @@ Technologies Used:
 
 Project Overview: <br>
 MedApp aims to improve efficiency in medicine stock management for pharmacies and enhance the user experience through a mobile app and website interface. The system enables real-time updates and availability checks, making it easier for users to find available medicines.
+
+output<br>
+[medapp.pdf](https://github.com/user-attachments/files/16533560/medapp.pdf)
